@@ -14,10 +14,18 @@ main {
   text-align: center;
 }
 
+<<<<<<< HEAD
 button {
   background-color: blue;
   color: white;
   margin: 10px;
   padding: 8px;
   border-radius: 8px;
+=======
+#datetime {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border: 1px solid grey;
+>>>>>>> 121b3d504f9bcbead3430e120d9d551be1c4939c
 }
